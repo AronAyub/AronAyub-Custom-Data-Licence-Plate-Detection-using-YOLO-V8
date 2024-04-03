@@ -1,4 +1,4 @@
-# Custom data sets Licence-Plate-Detection-using-YOLO-V8
+# Custom data sets Licence-Plate-Detection-using-YOLO-V8  + Raspberry Pi 
 
 - The main steps involved:
 * <> Data logistics
