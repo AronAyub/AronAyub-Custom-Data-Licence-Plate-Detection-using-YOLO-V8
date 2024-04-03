@@ -61,10 +61,14 @@ Speed: 0.2ms pre-process, 2.8ms inference, 0.0ms loss, 3.6ms post-process per im
 Saving runs/detect/train/predictions.json...
 Results saved to runs/detect/train
 ```
+# Integration to RPI
+- <> Now that we have a quantized and trained tested model, let's test it in Raspberry pi.
+
+- [Navigate to the Repository on using YoloV8 with Raspberry Pi][def4]
 
 
 
-- Further studies,
+- Further studies. 
 
 [Ultralytics Official Link][def3]
 
@@ -72,3 +76,4 @@ Results saved to runs/detect/train
 [def]: https://universe.roboflow.com/mochoye/license-plate-detector-ogxxg
 [def2]: https://universe.roboflow.com/playground-wxriu/kenyan-number-plate-detection
 [def3]: https://docs.ultralytics.com/tasks/detect/#models
+[def4]: https://github.com/AronAyub/YoloV8-Pi-5
