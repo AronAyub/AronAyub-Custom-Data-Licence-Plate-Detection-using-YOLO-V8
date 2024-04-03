@@ -1,6 +1,6 @@
 # Custom data sets Licence-Plate-Detection-using-YOLO-V8
 
-- Open Notebook file and run the commands sequencialy.
+- Open Notebook file and run the commands sequentially.
 - Connect to T4 GPU under resources on the right side.
 
 <img width="828" alt="image" src="https://github.com/Arijit1080/Licence-Plate-Detection-and-Recognition-using-YOLO-V8-EasyOCR/assets/55284959/81bc96ff-ae4b-4c56-8303-3fa98551a727">
