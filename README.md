@@ -45,6 +45,9 @@ source = 0
 ```
 source = 'directory.png'
 ```
+
+- Use whatever images you have to test the model 
+
 * video
 
 ```
@@ -61,9 +64,11 @@ Results saved to runs/detect/train
 
 
 
+- Further studies,
 
-
+[Ultralytics Official Link][def3]
 
 
 [def]: https://universe.roboflow.com/mochoye/license-plate-detector-ogxxg
 [def2]: https://universe.roboflow.com/playground-wxriu/kenyan-number-plate-detection
+[def3]: https://docs.ultralytics.com/tasks/detect/#models
