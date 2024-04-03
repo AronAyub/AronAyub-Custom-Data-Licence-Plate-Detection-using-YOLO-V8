@@ -64,8 +64,18 @@ Results saved to runs/detect/train
 # Integration to RPI
 - <> Now that we have a quantized and trained tested model, let's test it in Raspberry pi.
 
-- [Navigate to the Repository on using YoloV8 with Raspberry Pi][def4]
+## [Navigate to the Repository on using YoloV8 with Raspberry Pi][def4]
 
+- see how to work with Ultralytics on Raspberry Pi.
+-  Test the model best.pt
+
+- This can be done for live camera, image and also video.
+
+
+## Challenge for you
+
+- Integrate OCR to get detected data.
+- Control GPIO pins after the data is detected.
 
 
 - Further studies. 
