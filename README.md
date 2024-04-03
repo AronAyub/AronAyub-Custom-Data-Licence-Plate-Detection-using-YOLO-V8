@@ -1,5 +1,11 @@
 # Custom data sets Licence-Plate-Detection-using-YOLO-V8
 
+- There are three main steps:
+* <> Data logistics
+* <> Training the data
+* <> Optimizing the model
+* <> Integrating with RPI
+
 - Open Notebook file and run the commands sequentially.
 - Connect to T4 GPU under resources on the right side.
 
